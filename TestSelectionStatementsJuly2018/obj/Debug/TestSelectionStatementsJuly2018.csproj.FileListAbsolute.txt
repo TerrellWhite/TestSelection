@@ -1,0 +1,7 @@
+c:\users\jusja\source\repos\TestSelectionStatementsJuly2018\TestSelectionStatementsJuly2018\bin\Debug\TestSelectionStatementsJuly2018.exe.config
+c:\users\jusja\source\repos\TestSelectionStatementsJuly2018\TestSelectionStatementsJuly2018\bin\Debug\TestSelectionStatementsJuly2018.exe
+c:\users\jusja\source\repos\TestSelectionStatementsJuly2018\TestSelectionStatementsJuly2018\bin\Debug\TestSelectionStatementsJuly2018.pdb
+c:\users\jusja\source\repos\TestSelectionStatementsJuly2018\TestSelectionStatementsJuly2018\obj\Debug\TestSelectionStatementsJuly2018.csprojAssemblyReference.cache
+c:\users\jusja\source\repos\TestSelectionStatementsJuly2018\TestSelectionStatementsJuly2018\obj\Debug\TestSelectionStatementsJuly2018.csproj.CoreCompileInputs.cache
+c:\users\jusja\source\repos\TestSelectionStatementsJuly2018\TestSelectionStatementsJuly2018\obj\Debug\TestSelectionStatementsJuly2018.exe
+c:\users\jusja\source\repos\TestSelectionStatementsJuly2018\TestSelectionStatementsJuly2018\obj\Debug\TestSelectionStatementsJuly2018.pdb
